@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_alias">
+    <sys_alias action="INSERT_OR_UPDATE">
+        <configuration_template display_value="Microsoft Azure AI Speech Connection Configuration">2ade4d003b8a1a90e89d2c0c95e45ada</configuration_template>
+        <connection_type>http_connection</connection_type>
+        <id>x_snc_az_ai_speech.Microsoft_Azure_AI_Speech</id>
+        <is_internal>false</is_internal>
+        <multiple_connections>false</multiple_connections>
+        <name>Microsoft Azure AI Speech</name>
+        <parent/>
+        <retry_policy display_value="Default HTTP Retry Policy">ef751ff07301330025d71afe2ff6a7f9</retry_policy>
+        <sys_class_name>sys_alias</sys_class_name>
+        <sys_created_by>jehova.honey@snc</sys_created_by>
+        <sys_created_on>2024-11-18 16:28:03</sys_created_on>
+        <sys_id>678e49003b8a1a90e89d2c0c95e45a73</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_snc_az_ai_speech.Microsoft_Azure_AI_Speech</sys_name>
+        <sys_package display_value="Microsoft Azure AI Speech Spoke" source="x_snc_az_ai_speech">f9714d403b4a1a90e89d2c0c95e45ad4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Microsoft Azure AI Speech Spoke">f9714d403b4a1a90e89d2c0c95e45ad4</sys_scope>
+        <sys_update_name>sys_alias_678e49003b8a1a90e89d2c0c95e45a73</sys_update_name>
+        <sys_updated_by>jehova.honey@snc</sys_updated_by>
+        <sys_updated_on>2024-11-18 16:30:23</sys_updated_on>
+        <type>connection</type>
+    </sys_alias>
+</record_update>
